@@ -1,7 +1,7 @@
 /* eslint-disable vue/no-parsing-error */
 <template>
   <div class="manager">
-    <div style="width: 80%;margin: auto">
+    <div style="width: 90%;margin: auto">
       <el-button type="primary" @click="handleCreate">Add new department's lecturer</el-button>
       <p></p>
       <el-select v-model="valueOptionStatus" class="pad" placeholder="Select">

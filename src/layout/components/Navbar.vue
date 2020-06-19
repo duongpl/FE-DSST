@@ -99,7 +99,7 @@ export default {
     float: right;
     height: 100%;
     line-height: 50px;
-    padding-right: 215px;
+    padding-right: 60px;
 
     &:focus {
       outline: none;

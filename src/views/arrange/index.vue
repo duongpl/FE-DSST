@@ -778,7 +778,7 @@ export default {
     display: block;
 
     .table-custom {
-      margin-top: 60px;
+      margin-top: 20px;
     }
 
     .view-all {
@@ -809,7 +809,7 @@ export default {
     }
 
     .title {
-      padding-top: 10px;
+      padding-top: 5px;
       margin: 0;
       padding-bottom: 10px;
       border-bottom: 1px solid #949494;
@@ -831,13 +831,14 @@ export default {
 
     &-content {
       display: flex;
-      margin-top: 180px;
+      margin-top: 160px;
       position: relative;
 
       &-detail {
         width: 280px;
         border: 1px solid #afaeae;
         padding: 20px;
+        padding-top: 10px !important;
         margin-right: 20px;
         border-radius: 4px;
         margin-top: -48px;
@@ -916,27 +917,27 @@ export default {
     }
 
     &-table {
-      display: flex;
-      flex-wrap: wrap;
+      /*display: flex;*/
+      /*flex-wrap: wrap;*/
       width: calc(100% - 280px);
       overflow: auto;
-      height: calc(100vh - 290px);
+      height: calc(100vh - 40px);
       right: 0;
       position: absolute;
       padding-left: 10px;
 
       .group-by {
         width: 100%;
-        margin-top: 20px;
-        margin-bottom: 5px;
-        position: fixed;
-        top: 180px;
+        /*margin-top: 20px;*/
+        /*margin-bottom: 5px;*/
+        /*position: fixed;*/
+        /*top: 180px;*/
         display: block;
 
         background: #fff;
         z-index: 999;
-        padding-bottom: 10px;
-        padding-top: 20px;
+        /*padding-bottom: 10px;*/
+        /*padding-top: 20px;*/
 
         .ml-20 {
           margin-left: 20px;
