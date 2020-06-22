@@ -23,7 +23,7 @@ if (process.env.npm_config_preview || rawArgv.includes('--preview')) {
     })
   )
 
-  app.listen(process.env.port || 8081, function () {
+  app.listen(process.env.PORT || 8081, function () {
     console.log(chalk.green(`> Preview at  http://localhost:${port}${publicPath}`))
     if (report) {
       console.log(chalk.green(`> Report at  http://localhost:${port}${publicPath}report.html`))
