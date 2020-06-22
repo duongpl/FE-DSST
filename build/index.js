@@ -9,7 +9,7 @@ if (process.env.npm_config_preview || rawArgv.includes('--preview')) {
 
   run(`vue-cli-service build ${args}`)
 
-  const port = process.env.port || process.env.npm_config_port || 8081
+  const port = 9526
   const publicPath = config.publicPath
 
   var connect = require('connect')
@@ -23,7 +23,7 @@ if (process.env.npm_config_preview || rawArgv.includes('--preview')) {
     })
   )
 
-  app.listen(process.env.port || 8081, function () {
+  app.listen(port, function () {
     console.log(chalk.green(`> Preview at  http://localhost:${port}${publicPath}`))
     if (report) {
       console.log(chalk.green(`> Report at  http://localhost:${port}${publicPath}report.html`))
