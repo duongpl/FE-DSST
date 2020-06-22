@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0866ed-a288-4151-b7f9-12b22f09d6c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.0.0.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.0.0.development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/app.a6b4ed4e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-20f7b1fe.9a2093f1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-325499e4.b5f7c211.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-4553aab1.9a2093f1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-573bdb03.98b12af5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-6044ae7f.d1e312e7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-68697b0f.5e9c0b21.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-6dbde58d.abb3d226.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-781247c6.60154c33.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-c6f5f15e.883331a2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-elementUI.ded27da0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-f917cb88.047af6e4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/chunk-libs.3dfb7769.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/fonts/element-icons.535877f5.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/fonts/element-icons.732389de.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/img/404.a57b6f31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/img/404_cloud.0f4bc32b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/img/logofpt.c9fb161f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/img/thumbnail.ed325efd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/app.922249e4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-20f7b1fe.de7b0501.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-325499e4.7509fca8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-4553aab1.1cdc132a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-573bdb03.7b35dad9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-6044ae7f.1ae7c16b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-68697b0f.9d0f9be5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-6b5a31e3.5f68cbb3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-6dbde58d.a4a8e8cf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-781247c6.6df6d503.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-c6f5f15e.bc5f32d0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-elementUI.554dec67.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-f917cb88.bc5522d2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-libs.1fde591f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +122,8 @@
       <workItem from="1591011674265" duration="4595000" />
       <workItem from="1591168118163" duration="7312000" />
       <workItem from="1591177633295" duration="1313000" />
+      <workItem from="1592826670980" duration="602000" />
+      <workItem from="1592836250212" duration="3188000" />
     </task>
     <servers />
   </component>
