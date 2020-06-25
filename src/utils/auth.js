@@ -8,7 +8,6 @@ export function getToken() {
 
 export function setToken(token) {
   console.log('token', token)
-  
   return Cookies.set(TokenKey, token)
 }
 
