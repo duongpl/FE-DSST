@@ -67,7 +67,6 @@ export default {
         }
       }
       this.$store.dispatch('user/getStatusUser', postData).then(() => {
-        console.log(this.$store.state.status)
       })
     },
 

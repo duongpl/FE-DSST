@@ -170,13 +170,13 @@ export default router
 const role = JSON.parse(localStorage.getItem('infoUser')) ? JSON.parse(localStorage.getItem('infoUser')).role.roleName : {}
 
 router.beforeEach((to, from, next) => {
-  console.log('role', role)
-  console.log('to.meta.roles, to.meta.roles')
+  // console.log('role', role)
+  // console.log('to.meta.roles, to.meta.roles')
 
   if (to.meta.roles && to.meta.roles === role || !to.meta.roles || role) {
     next()
   } else {
-    console.log('hiih')
+    // console.log('hiih')
   }
 })
 

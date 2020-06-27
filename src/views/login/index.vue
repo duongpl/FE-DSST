@@ -74,7 +74,6 @@ export default {
 
     onSignInSuccess(googleUser) {
       this.loading = true
-      console.log(googleUser,'user nay')
       const objectToSend = {
         accessToken: googleUser.getAuthResponse(true).access_token
       }
