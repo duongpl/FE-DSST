@@ -6,7 +6,7 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const name = defaultSettings.title || 'vue Admin Template' // page title
+const name = defaultSettings.title || 'DSST' // page title
 
 // If your port is set to 80,
 // use administrator privileges to execute the command line.
@@ -27,10 +27,11 @@ module.exports = {
   publicPath: '/',
   outputDir: 'dist',
   assetsDir: '',
-  lintOnSave: process.env.NODE_ENV === 'production',
+  lintOnSave: process.env.NODE_ENV !== 'production',
   productionSourceMap: false,
   devServer: {
     port: port,
+    host: '0.0.0.0',
     open: true,
     overlay: {
       warnings: false,
